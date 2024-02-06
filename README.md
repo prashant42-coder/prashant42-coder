@@ -1,3 +1,4 @@
+![logo](https://github.com/prashant42-coder/prashant42-coder/blob/main/GitBanner.png)
 <h1 align="center">Hi 👋, I'm Prashant Nawale</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
 
